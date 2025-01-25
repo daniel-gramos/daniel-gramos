@@ -3,7 +3,7 @@
 
 <p>Sou <strong>Desenvolvedor Web</strong> com experiência em diversas plataformas, como Magento, Wordpress, Nuvemshop, Loja Integrada, Tray Commerce e Woocomerce.</p>
 
-- 💻 Atualmente estou trabalhando com desenvolvimento de Layouts para Sites e Lojas Virtuais, adaptação de Templates e presto serviços de integração de Lojas Virtuais/ERPs com Marketplaces.
+- 💻 Atualmente estou trabalhando com desenvolvimento de Layouts para Sites e Lojas Virtuais, adaptação de Templates e também presto serviços de integração de Lojas Virtuais/ERPs com Marketplaces.
 
 - 📖 Estou estudando para obter a certificação de Desenvolvedor Magento. Também estou fazendo o Curso da Oracle Next Education em parceria com a Alura para conseguir as certificações da Oracle e agregar mais valor ao meu portfólio.
 
@@ -11,7 +11,7 @@
 
 - ✨ Trabalhei muito tempo sozinho, tendo que resolver os problemas sem ajuda de outros profissionais, o que me fez aprender muito e com isso, desenvolvi certa facilidade em identificar erros no código fonte e aprendi a buscar e criar soluções para os mesmos.
 
-- 🎮 Curiosidades: Sou um amante de jogos, principalmente do gênero rpgs e aventuras, e no passado cheguei até a trabalhar como Game Master na antiga Aeria Games. Também fiz um curso de desenvolvimento de jogos na SAGA, onde aprendi animação e modelagem 3D, criação de cenários com a Unreal Engine, programação com blue-print porém acabei optando por seguir carreira no Desenvolvimento Web, deixando a paixão por jogos somente como diversão :) 
+- 🎮 Curiosidades: Sou um amante de jogos, principalmente do gênero rpgs e aventuras. Fiz um curso de desenvolvimento de jogos na SAGA, onde aprendi animação e modelagem 3D, criação de cenários com a Unreal Engine, programação com blue-print porém acabei optando por seguir carreira no Desenvolvimento Web, deixando a paixão por jogos somente como diversão :) 
 
 ## Ferramentas e Tecnologias
 
