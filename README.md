@@ -1,5 +1,5 @@
 # Olá! Seja bem-vindo(a) ao meu perfil do Github 👋
-## Meu nome é Daniel Ramos e meu apelido é "GuMaLoKo"
+## Meu nome é Daniel Ramos
 
 <p>Sou <strong>Desenvolvedor Web</strong> com experiência em diversas plataformas, como Magento, Wordpress, Nuvemshop, Loja Integrada, Tray Commerce e Woocomerce.</p>
 
