@@ -1,13 +1,11 @@
 # Olá! Seja bem-vindo(a) ao meu perfil do Github 👋
 ## Meu nome é Daniel Ramos
 
-<p>Sou <strong>Desenvolvedor Web</strong> com experiência em diversas plataformas, como Magento, Wordpress, Nuvemshop, Loja Integrada, Tray Commerce e Woocomerce.</p>
+<p>Em transição de carreira para a área de <strong>Ciência de Dados.</strong> Estou cursando graduação em Banco de Dados na Faculdade Descomplica e seguindo a trilha de especialização em <strong>Data Science</strong> no Programa One (Oracle Next Education) em parceria com a Alura.</p>
 
-- 💻 Atualmente estou trabalhando com desenvolvimento de Layouts para Sites e Lojas Virtuais, adaptação de Templates e também presto serviços de integração de Lojas Virtuais/ERPs com Marketplaces.
+- 🖥️ Sou <strong>Desenvolvedor Web</strong> com experiência em diversas plataformas, como Magento, Wordpress, Nuvemshop, Loja Integrada, Tray Commerce e Woocomerce.
 
-- 📖 Estou estudando para obter a certificação de Desenvolvedor Magento. Também estou fazendo o Curso da Oracle Next Education em parceria com a Alura para conseguir as certificações da Oracle e agregar mais valor ao meu portfólio.
-
-- 🚀 Quero colaborar com a comunidade desenvolvedora em geral, podendo compartilhar o pouco conhecimento que tenho e também aprender com todos. Acredito que essa troca de conhecimento e experiência é essencial para o crescimento profissional e pessoal de cada um!
+- 🚀 Quero colaborar com a comunidade em geral, podendo compartilhar o pouco conhecimento que tenho e também aprender com todos. Acredito que essa troca de conhecimento e experiência é essencial para o crescimento profissional e pessoal de cada um!
 
 - ✨ Trabalhei muito tempo sozinho, tendo que resolver os problemas sem ajuda de outros profissionais, o que me fez aprender muito e com isso, desenvolvi certa facilidade em identificar erros no código fonte e aprendi a buscar e criar soluções para os mesmos.
 
@@ -15,10 +13,12 @@
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="100px"/>
+          
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="100px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="100px"/>
+          
 
 ## Contatos:
 
