@@ -1,7 +1,7 @@
 # Olá! Seja bem-vindo(a) ao meu perfil do Github 👋
 ## Meu nome é Daniel Ramos
 
-<p>Em transição de carreira para a área de <strong>Ciência de Dados.</strong> Estou cursando graduação em Banco de Dados na Faculdade Descomplica e seguindo a trilha de especialização em <strong>Data Science</strong> no Programa One (Oracle Next Education) em parceria com a Alura.</p>
+<p>Estou cursando graduação em Banco de Dados na Faculdade Descomplica e seguindo a trilha de especialização em <strong>Data Science</strong> no Programa One (Oracle Next Education) em parceria com a Alura para ampliar meus conhecimentos.</p>
 
 - 🖥️ Sou <strong>Desenvolvedor Web</strong> com experiência em diversas plataformas, como Magento, Wordpress, Nuvemshop, Loja Integrada, Tray Commerce e Woocomerce.
 
