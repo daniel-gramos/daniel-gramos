@@ -3,7 +3,7 @@
 
 <p>Estou cursando graduação em Banco de Dados na Faculdade Descomplica e seguindo a trilha de especialização em <strong>Data Science</strong> no Programa One (Oracle Next Education) em parceria com a Alura para ampliar meus conhecimentos.</p>
 
-- 🖥️ Sou <strong>Desenvolvedor Web</strong> com experiência em diversas plataformas, como Magento, Wordpress, Nuvemshop, Loja Integrada, Tray Commerce e Woocomerce.
+- 🖥️ Atualmente sou <strong>Desenvolvedor Web</strong> com experiência em diversas plataformas, como Magento, Wordpress, Nuvemshop, Loja Integrada, Tray Commerce e Woocomerce. Estou em transição de carreeira para <strong>Data Science</strong>.
 
 - 🚀 Quero colaborar com a comunidade em geral, podendo compartilhar o pouco conhecimento que tenho e também aprender com todos. Acredito que essa troca de conhecimento e experiência é essencial para o crescimento profissional e pessoal de cada um!
 
